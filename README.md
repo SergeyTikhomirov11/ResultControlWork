@@ -1,5 +1,4 @@
-# ResultControlWork
-The resulting task for 1st part of educational program
+# Итоговая проверочная работа
 
 ## Решение задачи (принципиальный алгоритм):
 1. Задаем 2 массива:
